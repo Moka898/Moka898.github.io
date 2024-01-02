@@ -1,0 +1,223 @@
+/*BEGIN Xbox Elite 2 Controller Styling*/
+
+.controller.custom{
+    background: url(https://imgur.com/UyPLWKY.png); 
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom.disconnected { 
+    background: url(https://imgur.com/ElFjZOz.png);
+}
+
+.custom.disconnected div {
+    display: none;
+}
+
+ .custom .triggers{ 
+    position: absolute;
+    background-repeat:no-repeat;
+} 
+
+.custom .trigger{
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .trigger.left{ 
+    width: 1200px;
+    height: 1000px;
+    background: url(https://imgur.com/3jvzi2F.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .trigger.right{
+    width: 1200px;
+    height: 1000px;
+    background: url(https://imgur.com/4rWVNah.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .bumper{
+    opacity: 0;
+}
+
+.custom .bumper.pressed{ 
+    opacity: 1;
+}
+
+.custom .bumper.right{
+    width: 1200px;
+    height: 1000px;
+    background: url(https://imgur.com/ywbsU1v.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .bumper.left{
+    width: 1200px;
+    height: 1000px;
+    background: url(https://imgur.com/vrRaW0m.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .arrows{
+    position: absolute;
+    width: 1200px;
+    height: 1000px;
+    top: 250px;
+    left: 291px;
+    background-repeat:no-repeat;
+}
+
+.custom .back{
+    opacity: 0;
+    position: absolute;
+}
+
+.custom .start{
+    opacity: 0;
+    position: absolute;
+}
+
+.custom .back.pressed{
+    width: 1200px;
+    height: 1000px;
+    left: -291px;
+    top: -250px;
+    background: url(https://imgur.com/6NuXhXZ.png);
+    position: absolute;
+    opacity: 1;
+} 
+
+.custom .start.pressed{
+    width: 1200px;
+    height: 1000px;
+    left: -291px;
+    top: -250px;
+    background: url(https://imgur.com/Xhh4r2h.png);
+    opacity: 1;
+}
+
+.custom .abxy{
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .button{
+    position: absolute;
+}
+
+.custom .button.pressed{
+    background-position-y: -00px;
+    margin-top: 0px;
+}
+
+.custom .a.pressed{
+    background: url(https://imgur.com/GmhRhhR.png); 
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .b.pressed{
+    background: url(https://imgur.com/L6aQ8MN.png);
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .x.pressed{
+    background: url(https://imgur.com/d4WzPrL.png); 
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .y.pressed{
+    background: url(https://imgur.com/pA8DLSv.png) ; 
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .meta.pressed{
+    background: url(https://imgur.com/KDavOGX.png) ; 
+    width: 1200px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+
+.custom .sticks{    
+    left: 226px;
+    top: 354px;
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.{
+    position: absolute;
+}
+
+.custom .stick.pressed.left{
+    position: absolute;
+    background: url(https://imgur.com/RnP9ALJ.png);
+    height: 151px;
+    width: 151px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.pressed.right{
+    position: absolute;
+    background: url(https://imgur.com/RnP9ALJ.png);
+    height: 151px;
+    width: 151px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.left{
+    position: absolute;
+    background: url(https://imgur.com/nmmokw0.png);
+    height: 151px;
+    width: 151px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.right{
+    position: absolute;
+    background: url(https://imgur.com/nmmokw0.png);
+    left: 450px;
+    top: 180px;
+    height: 151px;
+    width: 151px;
+    background-repeat:no-repeat;
+}
+
+.fstick {
+    width: 1200px;
+    height: 1000px;
+    background: url();
+}
+	
+.fstick.up {
+    background: url(https://imgur.com/caIHXJp.png);
+}
+
+.fstick.down {
+    background: url(https://imgur.com/oQgMzQd.png);
+}
+
+.fstick.left {
+    background: url(https://imgur.com/BeILquw.png);
+}
+
+.fstick.right {
+    background: url(https://imgur.com/ZCym3x2.png);
+}
+
+/*END Xbox Elite 2 Controller Styling*/
