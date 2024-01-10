@@ -1,0 +1,247 @@
+/*BEGIN PS4 Controller Styling*/
+
+.controller.custom{
+    background: url(https://imgur.com/uGVBmNm.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom.disconnected { 
+    background: url(https://imgur.com/gJ52VdV.png);
+}
+
+.custom.disconnected div {
+    display: none;
+}
+
+ .custom .triggers{ 
+    position: absolute;
+    background-repeat:no-repeat;
+} 
+
+.custom .trigger{
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .trigger.left{ 
+    height: 924px;
+    width: 1200px;
+    background: url(https://imgur.com/ldPpUd1.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .trigger.right{
+    height: 924px;
+    width: 1200px;
+    background: url(https://imgur.com/YMWvBQ4.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .bumper{
+    opacity: 0;
+}
+
+.custom .bumper.pressed{ 
+    opacity: 1;
+}
+
+.custom .bumper.right{
+    height: 924px;
+    width: 1200px;
+    background: url(https://imgur.com/L2s9qKz.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .bumper.left{
+    height: 924px;
+    width: 1200px;
+    background: url(https://imgur.com/zlVpAd3.png);
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .arrows{
+    position: absolute;
+    width: 205px;
+    height: 19px;
+    top: 250px;
+    left: 291px;
+    background-repeat:no-repeat;
+}
+
+.custom .back{
+    opacity: 0;
+    position: absolute;
+}
+
+.custom .start{
+    opacity: 0;
+    position: absolute;
+}
+
+.custom .back.pressed{
+    height: 924px;
+    width: 1200px;
+    left: -291px;
+    top: -250px;
+    background: url(https://imgur.com/eTubo7M.png);
+    position: absolute;
+    opacity: 1;
+} 
+
+.custom .start.pressed{
+    height: 924px;
+    width: 1200px;
+    left: -291px;
+    top: -250px;
+    background: url(https://imgur.com/vskn7hy.png);
+    opacity: 1;
+}
+
+.custom .abxy{
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .button{
+    position: absolute;
+}
+
+.custom .button.pressed{
+    background-position-y: -00px;
+    margin-top: 0px;
+}
+
+.custom .a.pressed{
+    background: url(https://imgur.com/QPebblB.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .b.pressed{
+    background: url(https://imgur.com/uoDRNva.png);
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .x.pressed{
+    background: url(https://imgur.com/pRtgjje.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .y.pressed{
+    background: url(https://imgur.com/3B1wZxp.png) ; 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .meta.pressed{
+    background: url(https://imgur.com/5QJUSNl.png) ; 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .sticks{    
+    left: 334px;
+    top: 460px;
+    position: absolute;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.{
+    position: absolute;
+}
+
+.custom .stick.pressed.left{
+    position: absolute;
+    background: url(https://imgur.com/QA4oAMS.png);
+    height: 163px;
+    width: 163px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.pressed.right{
+    position: absolute;
+    background: url(https://imgur.com/QA4oAMS.png);
+    height: 163px;
+    width: 163px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.left{
+    position: absolute;
+    background: url(https://imgur.com/7QZJqpM.png);
+    height: 163px;
+    width: 163px;
+    background-repeat:no-repeat;
+}
+
+.custom .stick.right{
+    position: absolute;
+    background: url(https://imgur.com/7QZJqpM.png);
+    left: 380px;
+    height: 163px;
+    width: 163px;
+    background-repeat:no-repeat;
+}
+
+.custom .dpad{
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .face{
+    background: url();
+    position: absolute;
+}
+
+.custom .face.right.pressed{
+    background: url(https://imgur.com/6RPCLdF.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .face.left.pressed{
+    background: url(https://imgur.com/sb1Of6j.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .face.up.pressed{
+    background: url(https://imgur.com/6boBzAm.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .face.down.pressed{ 
+    background: url(https://imgur.com/0mleE8f.png); 
+    height: 924px;
+    width: 1200px;
+    background-repeat:no-repeat;
+}
+
+.custom .touchpad.pressed{
+    position:absolute;
+    height: 924px;
+    width: 1200px;
+    background: url(https://imgur.com/ywCqtT5.png);
+    background-repeat:no-repeat;
+}
+
+/*END PS4 Controller Styling*/
