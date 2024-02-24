@@ -7,11 +7,11 @@
     background-repeat:no-repeat;
 }
 
-.custom.disconnected { 
+.custom.disconnected{ 
     background: url(https://imgur.com/pJgVe8U.png);
 }
 
-.custom.disconnected div {
+.custom.disconnected div{
     display: none;
 }
 
@@ -198,25 +198,25 @@
     background-repeat:no-repeat;
 }
 
-.fstick {
+.fstick{
     width: 1200px;
     height: 1000px;
     background: url();
 }
 	
-.fstick.up {
+.fstick.up{
     background: url(https://imgur.com/C7VvfnJ.png);
 }
 
-.fstick.down {
+.fstick.down{
     background: url(https://imgur.com/dUF6ODk.png);
 }
 
-.fstick.left {
+.fstick.left{
     background: url(https://imgur.com/hUeThmL.png);
 }
 
-.fstick.right {
+.fstick.right{
     background: url(https://imgur.com/SExgStT.png);
 }
 
